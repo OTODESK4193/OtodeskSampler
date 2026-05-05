@@ -223,9 +223,16 @@ Sync LFOs to DAW tempo and apply to loop positions or pitch for rhythmically ali
 ---
 ---
 
-## 📄 License
+## 📝 License
 
-This project is distributed under the **GPLv3 License**. See [LICENSE](LICENSE) file for complete terms.
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
+
+Since this plugin is built using the [JUCE framework](https://juce.com/) under its Personal/Open-Source tier, it must be distributed as open-source under the GPLv3 license. 
+You are free to use, modify, and distribute this software, provided that any derivative works are also open-sourced under the same license. 
+
+For commercial distribution without open-sourcing, a commercial JUCE license is required.
+
+---
 
 ### Third-Party Libraries
 - **JUCE 8.0.8**: JUCE End-User License Agreement
