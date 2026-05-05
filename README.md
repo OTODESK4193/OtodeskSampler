@@ -12,7 +12,7 @@
 ---
 
 ##
-<img src="ScreenShots/Screenshot.jpg" width="600">
+<img src="/Screenshot.jpg" width="600">
 
 👉 **[Watch the Demo Video on X (動作デモ動画はこちら！)](https://x.com/kijyoumusic/status/2050780250024657267?s=20)**
 
