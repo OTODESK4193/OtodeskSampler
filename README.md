@@ -214,8 +214,8 @@ Sync LFOs to DAW tempo and apply to loop positions or pitch for rhythmically ali
 
 ## 📖 Full Documentation
 
-For comprehensive user manual with parameter tables, effect descriptions, and advanced techniques, see **Otodesk_Sampler_Manual.docx** included in this repository.
-
+-👉 [**Otodesk Sampler _ Quick Start Guide for Beginners(PDF)**](Otodesk Sampler _ Quick Start Guide for Beginners.pdf)
+-👉 [**OtodeskSampler_Manual (PDF)**](OtodeskSampler_Manual.pdf)
 ---
 
 ---
