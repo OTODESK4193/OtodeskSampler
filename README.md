@@ -44,7 +44,7 @@ Otodesk Sampler is a sophisticated sampler plugin designed for modern music prod
 
 ### Installation
 
-1. **Download** the latest `.vst3` file from [Releases](https://github.com/OTODESK4193/Otodesk_sampler/releases)
+1. **Download** the latest `.vst3` file from [Releases](https://github.com/OTODESK4193/OtodeskSampler/releases/tag/%EF%BD%961.0.0)
 2. **Place** in your VST3 plugin directory:
    - **Windows**: `C:\Program Files\Common Files\VST3\`
 3. **Rescan** plugins in Ableton Live (Preferences → Plug-in Sources → Re-Scan)
