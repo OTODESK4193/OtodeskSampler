@@ -243,7 +243,6 @@ This project is distributed under the **GPLv3 License**. See [LICENSE](LICENSE) 
 
 ## 📞 Support
 
-- **Repository**: [github.com/OTODESK4193/Otodesk_sampler](https://github.com/OTODESK4193/Otodesk_sampler)
 - **Social**: [@kijyoumusic](https://twitter.com/kijyoumusic)
 
 ---
