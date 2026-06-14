@@ -4,7 +4,7 @@
 > A powerful VST3 sampler with intelligent pitch detection, real-time stretching, and a comprehensive modulation engine.
 
 ![Release](https://img.shields.io/badge/release-v1.0-blue)
-![License](https://img.shields.io/badge/license-GPLv3-green)
+![License](https://img.shields.io/badge/license-AGPLv3-green)
 ![JUCE](https://img.shields.io/badge/JUCE-8.0.8-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20-lightgrey)
 ![Downloads](https://img.shields.io/github/downloads/OTODESK4193/OtodeskSampler/total.svg)
@@ -231,14 +231,16 @@ Sync LFOs to DAW tempo and apply to loop positions or pitch for rhythmically ali
 ---
 ---
 
-## 📝 License
+## License
 
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
+This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3) - see the [LICENSE](LICENSE) file for details.
 
-Since this plugin is built using the [JUCE framework](https://juce.com/) under its Personal/Open-Source tier, it must be distributed as open-source under the GPLv3 license. 
-You are free to use, modify, and distribute this software, provided that any derivative works are also open-sourced under the same license. 
+This software is built using the **JUCE 8** framework. In accordance with JUCE 8's open-source licensing terms, this entire project is distributed under the AGPLv3.
 
-For commercial distribution without open-sourcing, a commercial JUCE license is required.
+### ライセンスについて
+このプロジェクトは **GNU Affero General Public License v3.0 (AGPLv3)** のもとで公開されています。詳細は [LICENSE](LICENSE) ファイルを作成してください。
+
+本プラグインは **JUCE 8** フレームワークを使用して開発されています。JUCE 8のオープンソースライセンス規約に基づき、本ソフトウェアのソースコードおよびバイナリにはAGPLv3が適用されます。
 
 ---
 
